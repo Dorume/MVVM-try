@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Program.Infrastracture.Commands.Base;
+using Program.Infrastructure.Commands.Base;
 
-namespace Program.Infrastracture.Commands
+namespace Program.Infrastructure.Commands
 {
     internal class LambdaCommand : Command
     {

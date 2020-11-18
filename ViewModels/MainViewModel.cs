@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 using System.Windows.Input;
-using Program.Infrastracture.Commands;
+using Program.Infrastructure.Commands;
 using Program.ViewModels.Base;
 
 namespace Program.ViewModels
