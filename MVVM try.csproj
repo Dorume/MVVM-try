@@ -107,8 +107,5 @@
     <Resource Include="Icons\Teachers.png" />
     <Resource Include="Icons\Groups.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Views\Windows\Subjects.png" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
