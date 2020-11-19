@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM try", "MVVM try.csproj", "{D436C871-9F45-490E-A484-691EEF3974D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_EntinityFramework", "..\DB_EntinityFramework\DB_EntinityFramework.csproj", "{A44D4413-CA93-472A-ABF8-23B4E59F92C7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramDb", "..\ProgramDb\ProgramDb.csproj", "{06A9B418-26D8-438A-9E0F-2944D4DCE642}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{D436C871-9F45-490E-A484-691EEF3974D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D436C871-9F45-490E-A484-691EEF3974D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D436C871-9F45-490E-A484-691EEF3974D7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A44D4413-CA93-472A-ABF8-23B4E59F92C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A44D4413-CA93-472A-ABF8-23B4E59F92C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A44D4413-CA93-472A-ABF8-23B4E59F92C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A44D4413-CA93-472A-ABF8-23B4E59F92C7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{06A9B418-26D8-438A-9E0F-2944D4DCE642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{06A9B418-26D8-438A-9E0F-2944D4DCE642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06A9B418-26D8-438A-9E0F-2944D4DCE642}.Release|Any CPU.ActiveCfg = Release|Any CPU
